@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import time
 from telegram import Bot
 
-TOKEN = "TU_TOKEN"
-CHAT_ID = "TU_CHAT_ID"
+TOKEN = "8763726269:AAFcJnZ2ie4ozdKMWgyYl0gJLTx3yt4hVZY"
+CHAT_ID = "793275742"
 
 URL = "https://www.entradasmillonarios.com/"
 
